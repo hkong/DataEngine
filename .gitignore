@@ -1,0 +1,15 @@
+.idea/.*
+.idea/*
+*.class
+*.log
+
+DataEngine.git.hk.iml
+
+DataEngine.git.hk-grailsPlugins.iml
+
+dataEngineDevelopmentDb.h2.db
+
+dataEngineDevelopmentDb.lock.db
+
+target/classes/application.properties
+
